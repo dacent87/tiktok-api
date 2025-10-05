@@ -3,7 +3,6 @@
  tiktok api last version mass account creator of tik tok accounts, tik tok likes, comments, tik tok latest version
 ## Telegram @alethino - https://t.me/alethino
 
-
 - Full TikTok APIs
 - X-Argus, X-Ladon, X-Gorgon, X-Khronos (source code)
 - Device Generator
