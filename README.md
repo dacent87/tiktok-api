@@ -1,7 +1,7 @@
 # TikTok api (Source code)
 
  tiktok api last version mass account creator of tik tok accounts, tik tok likes, comments, tik tok latest version
-## Telegram @dacent53 - https://t.me/dacent53
+## Telegram @dacent87 - https://t.me/dacent87
 
 
 - Full TikTok APIs
@@ -16,4 +16,4 @@
 
 - Account Generator (incl. proxy support, config file)
 
-### Telegram: https://t.me/dacent53
+### Telegram: https://t.me/dacent87
